@@ -16,7 +16,7 @@ Proposal: Bill Split Application
   Nice to Have Features: Sign up and Login Feature
                          Creating Groups and adding others through either email/phone number (from login)
                          Displaying/Checking who has paid and who hasn't paid
-                         
+                         Currency Conversions
 ```
 
 Subject To Change As Time Progresses ( Features may be dropped or added)
