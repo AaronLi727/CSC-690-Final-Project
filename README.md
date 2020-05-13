@@ -23,4 +23,8 @@ Proposal: Pokedex Application (1st Generation)
                        
 ```
 
-Subject To Change As Time Progresses (Features may be dropped or added)
+```
+WireFrame
+```
+![WireFrame](WireFrame/WireFrame.png)
+
