@@ -65,7 +65,7 @@ class Pokemon
         //checks if data exists in dictionary (if bulbasaur exists or not and return it)
         if let name = dictionary["name"] as? String
         {
-            self.name = name.capitalized
+            self.name = name
         }
         
         if let imageUrl = dictionary["imageUrl"] as? String
