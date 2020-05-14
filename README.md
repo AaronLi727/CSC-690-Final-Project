@@ -26,9 +26,11 @@ Proposal: Pokedex Application (1st Generation)
 ```
 WireFrame
 ```
-![WireFrame](WireFrame/WireFrame.png)
+<img src="WireFrame/WireFrame.png" align="left" height="500" width="400" >
+
 
 ```
 Demo
 ```
-![Demo](Demo/Demo.gif)
+
+<img src="Demo/Demo.gif" align="left" height="400" width="200" >
