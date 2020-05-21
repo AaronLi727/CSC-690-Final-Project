@@ -34,3 +34,18 @@ Demo
 ```
 
 <img src="Demo/Demo.gif" align="left" height="400" width="200" >
+
+
+```
+Resources
+```
+Tutorial: https://www.udemy.com/course/ios-12-swift-4-build-a-pokedex-app/
+
+Axel Ancona Esselmann Lectures and Docs
+
+Swift 
+
+XCode
+
+Tons of Online Resources
+ 
